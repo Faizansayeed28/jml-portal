@@ -1,0 +1,10 @@
+
+
+$body = @{
+  grant_type    = "client_credentials"
+  client_id     = $clientId
+  client_secret = $secret
+  scope         = "api://$apiId/.default"
+}
+$t = Invoke-RestMethod -Method Post -Uri "https://login.microsoftonline.com/$tenant/oauth2/v2.0/token" -Body $body
+$t.access_token.Length

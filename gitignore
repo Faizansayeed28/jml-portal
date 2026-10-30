@@ -1,0 +1,37 @@
+# .NET
+bin/
+obj/
+.vs/
+*.user
+
+# Local database and encryption keys (never commit)
+*.db
+*.db-shm
+*.db-wal
+keys/
+
+# Certificates and secrets (never commit)
+*.pfx
+*.cer
+*.key
+secret.txt
+secret.bin
+.env
+appsettings.Development.json
+appsettings.Local.json
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Logs and diagnostics
+*.log
+sec.inf
+gp.html
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

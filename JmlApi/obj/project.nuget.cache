@@ -1,0 +1,90 @@
+{
+  "version": 2,
+  "dgSpecHash": "piTTphwhKAQ=",
+  "success": true,
+  "projectFilePath": "C:\\JML_Project\\jml\\JmlApi\\JmlApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fk012\\.nuget\\packages\\azure.core\\1.50.0\\azure.core.1.50.0.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\azure.identity\\1.17.2\\azure.identity.1.17.2.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\azure.security.keyvault.certificates\\4.6.0\\azure.security.keyvault.certificates.4.6.0.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\azure.security.keyvault.secrets\\4.6.0\\azure.security.keyvault.secrets.4.6.0.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\10.0.0\\microsoft.aspnetcore.authentication.jwtbearer.10.0.0.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\10.0.0\\microsoft.aspnetcore.authentication.openidconnect.10.0.0.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.2\\microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\microsoft.bcl.cryptography\\10.0.2\\microsoft.bcl.cryptography.10.0.2.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.13\\microsoft.data.sqlite.core.10.0.13.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.13\\microsoft.entityframeworkcore.10.0.13.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.13\\microsoft.entityframeworkcore.abstractions.10.0.13.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.13\\microsoft.entityframeworkcore.analyzers.10.0.13.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\10.0.13\\microsoft.entityframeworkcore.relational.10.0.13.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\10.0.13\\microsoft.entityframeworkcore.sqlite.10.0.13.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\10.0.13\\microsoft.entityframeworkcore.sqlite.core.10.0.13.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\microsoft.extensions.dependencymodel\\10.0.13\\microsoft.extensions.dependencymodel.10.0.13.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\microsoft.identity.abstractions\\12.7.0\\microsoft.identity.abstractions.12.7.0.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\microsoft.identity.client\\4.90.1\\microsoft.identity.client.4.90.1.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\4.83.1\\microsoft.identity.client.extensions.msal.4.83.1.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\microsoft.identity.web\\4.16.1\\microsoft.identity.web.4.16.1.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\microsoft.identity.web.certificate\\4.16.1\\microsoft.identity.web.certificate.4.16.1.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\microsoft.identity.web.certificateless\\4.16.1\\microsoft.identity.web.certificateless.4.16.1.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\microsoft.identity.web.diagnostics\\4.16.1\\microsoft.identity.web.diagnostics.4.16.1.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\microsoft.identity.web.tokenacquisition\\4.16.1\\microsoft.identity.web.tokenacquisition.4.16.1.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\microsoft.identity.web.tokencache\\4.16.1\\microsoft.identity.web.tokencache.4.16.1.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.23.0\\microsoft.identitymodel.abstractions.8.23.0.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.23.0\\microsoft.identitymodel.jsonwebtokens.8.23.0.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\microsoft.identitymodel.logging\\8.23.0\\microsoft.identitymodel.logging.8.23.0.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\microsoft.identitymodel.loggingextensions\\8.23.0\\microsoft.identitymodel.loggingextensions.8.23.0.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\microsoft.identitymodel.protocols\\8.23.0\\microsoft.identitymodel.protocols.8.23.0.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\8.23.0\\microsoft.identitymodel.protocols.openidconnect.8.23.0.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.23.0\\microsoft.identitymodel.tokens.8.23.0.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\microsoft.identitymodel.validators\\8.23.0\\microsoft.identitymodel.validators.8.23.0.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\microsoft.openapi\\2.3.10\\microsoft.openapi.2.3.10.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.13\\sqlitepclraw.bundle_e_sqlite3.2.1.13.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\sqlitepclraw.core\\2.1.13\\sqlitepclraw.core.2.1.13.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.13\\sqlitepclraw.lib.e_sqlite3.2.1.13.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.13\\sqlitepclraw.provider.e_sqlite3.2.1.13.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\system.clientmodel\\1.8.0\\system.clientmodel.1.8.0.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.23.0\\system.identitymodel.tokens.jwt.8.23.0.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\system.memory.data\\8.0.1\\system.memory.data.8.0.1.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\system.security.cryptography.pkcs\\10.0.10\\system.security.cryptography.pkcs.10.0.10.nupkg.sha512",
+    "C:\\Users\\fk012\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.OpenApi' 2.3.10 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "C:\\JML_Project\\jml\\JmlApi\\JmlApi.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\JML_Project\\jml\\JmlApi\\JmlApi.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'System.Security.Cryptography.Pkcs' 10.0.10 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-2fmv-rv2c-59x7",
+      "projectPath": "C:\\JML_Project\\jml\\JmlApi\\JmlApi.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\JML_Project\\jml\\JmlApi\\JmlApi.csproj",
+      "libraryId": "System.Security.Cryptography.Pkcs",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'System.Security.Cryptography.Pkcs' 10.0.10 has a known high severity vulnerability, https://github.com/advisories/GHSA-846f-f764-76mx",
+      "projectPath": "C:\\JML_Project\\jml\\JmlApi\\JmlApi.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\JML_Project\\jml\\JmlApi\\JmlApi.csproj",
+      "libraryId": "System.Security.Cryptography.Pkcs",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
